@@ -1,0 +1,25 @@
+,0
+cluster1 cluster0 Single Link,0.3911974354824854
+cluster1 cluster0 average,0.9791078360796811
+cluster1 cluster0 centriod,0.9361855306821714
+cluster1 cluster0 complete Link,1.6302683308324601
+cluster1 cluster2 Single Link,0.542441090862503
+cluster1 cluster2 average,1.328260503079467
+cluster1 cluster2 centriod,1.948633396676759
+cluster1 cluster2 complete Link,1.8165588967015067
+cluster1 cluster3 Single Link,0.3386960200083621
+cluster1 cluster3 average,1.0339040216396886
+cluster1 cluster3 centriod,1.1509438558394376
+cluster1 cluster3 complete Link,1.6303177255486192
+cluster2 cluster0 Single Link,0.30642813604100627
+cluster2 cluster0 average,1.0315811931965748
+cluster2 cluster0 centriod,1.2520179902120323
+cluster2 cluster0 complete Link,1.6745186542844355
+cluster3 cluster0 Single Link,0.43511228056198015
+cluster3 cluster0 average,1.071648419096812
+cluster3 cluster0 centriod,1.790753326021957
+cluster3 cluster0 complete Link,1.7017454811297856
+cluster3 cluster2 Single Link,0.3580614647768887
+cluster3 cluster2 average,0.9689506760882236
+cluster3 cluster2 centriod,0.8585157268418594
+cluster3 cluster2 complete Link,1.6231150087650188
